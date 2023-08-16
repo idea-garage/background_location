@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "12b75d72f84d3a5d5c881c3d08bd0050538ef24f1e04933c40f9db45e4725172"
+build_start_time: [1692151031, 447236000]
+build_end_time: [1692151035, 345192000]
+inputs:
+  "/Users/thunder/flutter/background_location/ios/Runner/AppDelegate.swift": [1683959926, 0]

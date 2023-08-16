@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "557346f064deeea8d7a1553bcb933d4ccf8b272c6f686260022eece4b8e63667"
+build_start_time: [1692150401, 455484000]
+build_end_time: [1692150402, 858337000]
+inputs:
+  ? "/Users/thunder/.pub-cache/hosted/pub.dev/flutter_background_service_ios-5.0.0/ios/Classes/SwiftFlutterBackgroundServicePlugin.swift"
+  : [1692076129, 939313697]

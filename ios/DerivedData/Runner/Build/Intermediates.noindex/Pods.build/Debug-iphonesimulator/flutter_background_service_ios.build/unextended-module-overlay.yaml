@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/thunder/flutter/background_location/build/ios/Debug-iphonesimulator/flutter_background_service_ios/flutter_background_service_ios.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/thunder/flutter/background_location/ios/DerivedData/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/flutter_background_service_ios.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/thunder/flutter/background_location/build/ios/Debug-iphonesimulator/flutter_background_service_ios/flutter_background_service_ios.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "flutter_background_service_ios-Swift.h",
+      'external-contents': "/Users/thunder/flutter/background_location/ios/DerivedData/Runner/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/flutter_background_service_ios.build/unextended-interface-header.h",
+    }]
+    }]
+}
