@@ -36,13 +36,14 @@
 	<string>位置情報の共有が必要です</string>
 	<key>UIBackgroundModes</key>
 	<array>
-  		<string>fetch</string>
-  		<string>remote-notification</string>
+		<string>fetch</string>
+		<string>remote-notification</string>
 		<string>location</string>
 	</array>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
-    	<string>dev.flutter.background.refresh</string>
+		<string>dev.flutter.background.refresh</string>
+		<string>dev.flutter.background.process</string>
 	</array>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
